@@ -1,0 +1,33 @@
+body {
+	width: 70%;
+	margin: 0 auto;
+	
+}
+h2 {
+	font-size: 32px;
+}
+h2, 
+h3{
+	font-family: Arial, sans-serif;
+	margin-bottom: 1.5em;
+	
+}
+
+table, th, td {
+	border: 1px solid #999;
+	border-spacing: 3px;
+	/*border-collapse: collapse; убирает пустые промежутки между ячейками */ 
+
+}
+.text-under-pic {
+	font-style: italic;
+	
+
+}
+.pic_text {
+	float: right;
+	margin: 10px 0px 5px 5px;
+	color: green;
+	font-size: 16px;
+	
+}
